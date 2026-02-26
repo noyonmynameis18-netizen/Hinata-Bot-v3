@@ -12,7 +12,7 @@ module.exports = {
                 name: "edit",
                 aliases: ["imgedit"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "MahMUD", // credit Change dile thapramu kintu.
                 countDown: 10,
                 role: 0,
                 description: {
@@ -41,7 +41,7 @@ module.exports = {
                 en: {
                         noInput: "× Baby, please reply to a photo with your prompt to edit it! 🪄",
                         wait: "🔄 | Editing your image, please wait...",
-                        success: "✅ | Edited image for: \"%1\"",
+                        success: "✅ Here's your Edited image\nPrompt: %1",
                         error: "× Failed to edit: %1. Contact MahMUD for help."
                 },
                 vi: {
