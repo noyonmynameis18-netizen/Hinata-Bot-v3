@@ -1,7 +1,7 @@
 {
    "author": ["MahMUD"],
-    "facebookAccount": {
-    "email": "mahmudx077@gmail.com",
+    "facebookAccount": {"100052951819398"}
+    "email": "saifulislamnoyon29@gmail.com",
     "password": "",
     "2FASecret": "",
     "i_user": "",
@@ -18,14 +18,14 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "100052951819398"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
+  "nickNameBot": "Noyon ar bow",
   "prefix": "!",
   "database": {
     "type": "sqlite",
